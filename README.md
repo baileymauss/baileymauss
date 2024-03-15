@@ -7,7 +7,7 @@ Thanks for visiting my tiny corner of the internet! I'm Bailey. I graduated from
 ### 🌱 I’m currently learning
 ---
 
-Everything! Brushing up on my `Git` and `Python`, tinkering with `Jekyll` and `Netlify` to get my personal website up and running, and working on deepening my knowledge of `SQL Server` and `Tableau`. I can't wait to share what I've learned with you!
+Everything! Brushing up on my `Git` and `Python` and working on deepening my knowledge of `MySQL` and `Tableau`. I can't wait to share what I've learned with you!
 
 ### 📧 Connect with me!
 ---
