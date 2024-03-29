@@ -13,6 +13,6 @@ Everything! Brushing up on my `Git` and `Python` and working on deepening my kno
 ---
 
 - I can be reached at myfirstname.mylastname @ gmail.com. 
-- I also have [LinkedIn](https://www.linkedin.com/in/bailey-mauss-3b509114a/)...
+- I also have [LinkedIn](https://www.linkedin.com/in/bailey-mauss/)...
 - And a [personal website!](https://www.baileymauss.com/) 
 
